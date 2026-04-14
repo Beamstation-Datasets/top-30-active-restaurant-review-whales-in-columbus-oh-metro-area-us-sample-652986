@@ -1,0 +1,12 @@
+{
+  "export_job_id": "e80f5ac2-8b42-46e4-bdd4-d910baee3796",
+  "id_short": 652986,
+  "published_at": "2026-04-14T07:56:22Z",
+  "repo_name": "top-30-active-restaurant-review-whales-in-columbus-oh-metro-area-us-sample-652986",
+  "sample_asset_name": "beamstation_652986_restaurants-us-columbusoh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/652986/beamstation_652986_restaurants-us-columbusoh_SAMPLE_DIST.csv",
+  "sample_records": 88,
+  "sample_sha256": "e7eaa5f6099a285e152cdeb6e9a736f4bcae02ace87d651e652d42cd262e8213",
+  "sample_size_bytes": 371681,
+  "total_records": 886
+}
