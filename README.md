@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Columbus, OH Metro Area, US
 
-> Free BeamStation sample export with 88 rows and masked direct-contact fields.
+> Free BeamStation sample export with 103 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `652986` |
 | Location | Columbus, OH |
 | Category | Restaurants |
-| Full dataset size | 886 records |
-| Free sample size | 88 records (9.93%) |
-| Last export | 2026-04-08T02:12:10.549810+00:00 |
+| Full dataset size | 1,031 records |
+| Free sample size | 103 records (9.99%) |
+| Last export | 2026-04-15T07:36:08.341282+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-columbus-oh-metro-area-us-sample-652986/releases/download/sample-latest/beamstation_652986_restaurants-us-columbusoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
